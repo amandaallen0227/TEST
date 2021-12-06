@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\Visual Studio 2017\Projects\02_CSF1\CSF1\CHANGELAB\bin\Debug\CHANGELAB.exe.config
+C:\Users\Student\Documents\Visual Studio 2017\Projects\02_CSF1\CSF1\CHANGELAB\bin\Debug\CHANGELAB.exe
+C:\Users\Student\Documents\Visual Studio 2017\Projects\02_CSF1\CSF1\CHANGELAB\bin\Debug\CHANGELAB.pdb
+C:\Users\Student\Documents\Visual Studio 2017\Projects\02_CSF1\CSF1\CHANGELAB\obj\Debug\CHANGELAB.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Visual Studio 2017\Projects\02_CSF1\CSF1\CHANGELAB\obj\Debug\CHANGELAB.exe
+C:\Users\Student\Documents\Visual Studio 2017\Projects\02_CSF1\CSF1\CHANGELAB\obj\Debug\CHANGELAB.pdb

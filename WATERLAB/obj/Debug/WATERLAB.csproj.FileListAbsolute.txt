@@ -1,0 +1,7 @@
+C:\Users\Student\Documents\Visual Studio 2017\Projects\02_CSF1\CSF1\WATERLAB\bin\Debug\WATERLAB.exe.config
+C:\Users\Student\Documents\Visual Studio 2017\Projects\02_CSF1\CSF1\WATERLAB\bin\Debug\WATERLAB.exe
+C:\Users\Student\Documents\Visual Studio 2017\Projects\02_CSF1\CSF1\WATERLAB\bin\Debug\WATERLAB.pdb
+C:\Users\Student\Documents\Visual Studio 2017\Projects\02_CSF1\CSF1\WATERLAB\obj\Debug\WATERLAB.csprojAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2017\Projects\02_CSF1\CSF1\WATERLAB\obj\Debug\WATERLAB.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Visual Studio 2017\Projects\02_CSF1\CSF1\WATERLAB\obj\Debug\WATERLAB.exe
+C:\Users\Student\Documents\Visual Studio 2017\Projects\02_CSF1\CSF1\WATERLAB\obj\Debug\WATERLAB.pdb
